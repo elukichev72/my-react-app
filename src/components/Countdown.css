@@ -1,0 +1,53 @@
+.countdown {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.countdown__stopwatch {
+    font-family: Hero;
+    font-size: 70px;
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.countdown__input-field {
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 76px;
+    width: 80px;
+    text-align: center;
+}
+
+.countdown__input-field[type='number'] {
+    font-family: Hero;
+    font-size: 70px;
+}
+
+.countdown__input-field::-webkit-outer-spin-button,
+.countdown__input-field::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.countdown__button {
+    width: 40px;
+    height: 40px;
+    border: none;
+    background-size: cover;
+    background-color: white;
+    cursor: pointer;
+}
+
+.countdown__start-button {
+    background-image: url('../assets/icons/start_button.svg');
+}
+
+.countdown__reset-button {
+    background-image: url('../assets/icons/reset_button.svg');
+}
+
+.countdown__pause-button {
+    background-image: url('../assets/icons/pause_button.svg');
+}
