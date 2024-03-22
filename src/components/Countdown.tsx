@@ -22,8 +22,9 @@ export default React.memo(function Countdown() {
             updatedS = 60;
         }
         if (updatedH === 0 && updatedM === 0 && updatedS === 0) {
-            setStatus(0);
             clearInterval(savedInterval);
+            setStatus(0);
+            return "";
         }
         updatedS = updatedS - 1;
         setTime({ h: updatedH, m: updatedM, s: updatedS });
