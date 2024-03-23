@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.127ca59c.css",
+    "main.js": "/my-react-app/static/js/main.09d57122.js",
+    "static/media/Hero-Regular.ttf": "/my-react-app/static/media/Hero-Regular.e7de38fb0b59857c16cd.ttf",
+    "static/media/timer_logo_active.svg": "/my-react-app/static/media/timer_logo_active.5ab6c0d82aea91ae415f.svg",
+    "static/media/pause_button.svg": "/my-react-app/static/media/pause_button.a9477bdd5f5d29947a23.svg",
+    "static/media/countdown_logo_active.svg": "/my-react-app/static/media/countdown_logo_active.77aef9da29f6df5c333b.svg",
+    "static/media/start_button.svg": "/my-react-app/static/media/start_button.28583ddbe6346a861ae6.svg",
+    "index.html": "/my-react-app/index.html",
+    "static/media/timer_logo.svg": "/my-react-app/static/media/timer_logo.db48c1a0ae4f616c9081.svg",
+    "static/media/reset_button.svg": "/my-react-app/static/media/reset_button.eec03e5ecbcc81247cba.svg",
+    "static/media/countdown_logo.svg": "/my-react-app/static/media/countdown_logo.a4e00c4b8ff83d3b45a8.svg",
+    "main.127ca59c.css.map": "/my-react-app/static/css/main.127ca59c.css.map",
+    "main.09d57122.js.map": "/my-react-app/static/js/main.09d57122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.127ca59c.css",
+    "static/js/main.09d57122.js"
+  ]
+}
